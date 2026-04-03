@@ -9,12 +9,12 @@ A lightweight Windows GUI tool that automatically retries joining a full Arma Re
 ## What it does
 
 1. Pulls a live server list directly from the [BattleMetrics](https://www.battlemetrics.com) public API.
-2. Displays servers with player count and ping, sorted by relevance to your search
-3. Launches Arma Reforger via Steam automatically if it isn't already running
-4. Passes splash screen, navigates to the server browser, searches for your chosen server, and attempts to join
-5. If the server is full, it cancels and retries instantly — no manual clicking
-6. Detects mod downloads and waits patiently without interfering
-7. Shows a success message the moment you're in queue, then stops
+2. Displays servers with player count and ping, sorted by relevance to your search in it's GUI.
+3. Launches Arma Reforger via Steam automatically if it isn't already running.
+4. Passes splash screen, navigates to the server browser, searches for your chosen server, and attempts to join.
+5. Detects mod downloads and waits patiently without interfering.
+6. If the server is full, it cancels and retries instantly — no manual clicking.
+7. Shows a success message the moment you're in queue, then stops.
 
 ---
 
